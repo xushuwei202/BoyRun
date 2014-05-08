@@ -1,0 +1,177 @@
+
+<dict>
+	cocos2d.x.version: 2.2.1
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics 3000
+	gl.version: 3.1.0 - Build 9.17.10.3040
+	gl.max_texture_size: 8192
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: E:\xushuwei\android\quick-cocos2d-x-develop\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 60
+------------------------------------------------
+LOAD LUA FILE: E:/xushuwei/android/lua-workspace/boyrun/scripts/main.lua
+------------------------------------------------
+[0.2703] [INFO] 
+[0.2708] [INFO] # DEBUG                        = 2
+[0.2713] [INFO] #
+[0.2722] [INFO] # device.platform              = windows
+[0.2727] [INFO] # device.model                 = unknown
+[0.2738] [INFO] # device.language              = cn
+[0.2747] [INFO] # device.writablePath          = E:\xushuwei\android\lua-workspace\boyrun\
+[0.2761] [INFO] # device.cachePath             = E:\xushuwei\android\lua-workspace\boyrun\
+[0.2774] [INFO] # device.directorySeparator    = \
+[0.2779] [INFO] # device.pathSeparator         = ;
+[0.2786] [INFO] #
+[0.2821] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_HEIGHT
+[0.2827] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+[0.2836] [INFO] # CONFIG_SCREEN_HEIGHT         = 320.00
+[0.2845] [INFO] # display.widthInPixels        = 640.00
+[0.2855] [INFO] # display.heightInPixels       = 320.00
+[0.2867] [INFO] # display.contentScaleFactor   = 1.00
+[0.2878] [INFO] # display.width                = 640.00
+[0.2887] [INFO] # display.height               = 320.00
+[0.2898] [INFO] # display.cx                   = 320.00
+[0.2908] [INFO] # display.cy                   = 160.00
+[0.2918] [INFO] # display.left                 = 0.00
+[0.2926] [INFO] # display.right                = 640.00
+[0.2934] [INFO] # display.top                  = 320.00
+[0.2941] [INFO] # display.bottom               = 0.00
+[0.2948] [INFO] # display.c_left               = -320.00
+[0.2954] [INFO] # display.c_right              = 320.00
+[0.2960] [INFO] # display.c_top                = 160.00
+[0.2968] [INFO] # display.c_bottom             = -160.00
+[0.2974] [INFO] #
+[0.3473] [INFO] Scene "SplashScene:onEnter()"
+[1.4892] [INFO] Scene "MenuScene:onEnter()"
+[2.1088] [INFO] Scene "SplashScene:onExit()"
+[2.1092] [INFO] ----------------------------------------
+[2.1100] [INFO] LUA VM MEMORY USED: 1297.47 KB
+cocos2d: "cc_fps_images" rc=4 id=2 256 x 32 @ 16 bpp => 16 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/helloBG.png" rc=3 id=3 640 x 320 @ 32 bpp => 800 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_n.png" rc=2 id=1 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_s.png" rc=2 id=4 252 x 86 @ 32 bpp => 84 KB
+cocos2d: CCTextureCache dumpDebugInfo: 4 textures, for 985 KB (0.96 MB)
+[2.1169] [INFO] ----------------------------------------
+[2.3092] [INFO] Scene "GameScene:onEnter()"
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [71] to [96].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [96] to [129].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [129] to [173].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [173] to [232].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [71] to [96].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [96] to [129].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [129] to [173].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [173] to [232].
+[3.1200] [INFO] Scene "MenuScene:onExit()"
+[3.1204] [INFO] ----------------------------------------
+[3.1213] [INFO] LUA VM MEMORY USED: 1433.88 KB
+cocos2d: "cc_fps_images" rc=4 id=2 256 x 32 @ 16 bpp => 16 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/helloBG.png" rc=2 id=3 640 x 320 @ 32 bpp => 800 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_n.png" rc=2 id=1 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_s.png" rc=2 id=4 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/map.png" rc=9 id=5 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/background.png" rc=45 id=6 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/running.png" rc=17 id=7 256 x 256 @ 32 bpp => 256 KB
+cocos2d: "cc_2x2_white_image" rc=1 id=8 2 x 2 @ 32 bpp => 0 KB
+cocos2d: CCTextureCache dumpDebugInfo: 8 textures, for 1369 KB (1.34 MB)
+[3.1311] [INFO] ----------------------------------------
+NOT FOUND BODY 076EA360
+NOT FOUND BODY 076E9060
+NOT FOUND BODY 076E8E60
+NOT FOUND BODY 076EA160
+NOT FOUND BODY 076EA060
+NOT FOUND BODY 076E8D60
+NOT FOUND BODY 076EA460
+NOT FOUND BODY 076E9160
+NOT FOUND BODY 076E9360
+NOT FOUND BODY 076EA660
+NOT FOUND BODY 076EAA60
+NOT FOUND BODY 076E9760
+NOT FOUND BODY 076EA760
+NOT FOUND BODY 076E9460
+NOT FOUND BODY 076EA960
+NOT FOUND BODY 076E9660
+NOT FOUND BODY 076EAC60
+NOT FOUND BODY 076E9960
+NOT FOUND BODY 076EAD60
+NOT FOUND BODY 076E9A60
+[10.3491] [INFO] LUA VM MEMORY USED: 1459.80 KB
+NOT FOUND BODY 076EB360
+NOT FOUND BODY 076EB060
+NOT FOUND BODY 076EAF60
+NOT FOUND BODY 076EB160
+NOT FOUND BODY 076EB260
+NOT FOUND BODY 076EB560
+NOT FOUND BODY 076EB760
+NOT FOUND BODY 07863160
+NOT FOUND BODY 076EB860
+NOT FOUND BODY 07863060
+NOT FOUND BODY 07863360
+NOT FOUND BODY 07863460
+[20.3582] [INFO] LUA VM MEMORY USED: 1509.38 KB
+NOT FOUND BODY 07863A60
+NOT FOUND BODY 07863660
+NOT FOUND BODY 07863760
+NOT FOUND BODY 07863860
+NOT FOUND BODY 07863C60
+NOT FOUND BODY 07863E60
+NOT FOUND BODY 07863F60
+NOT FOUND BODY 07864160
+NOT FOUND BODY 07864260
+NOT FOUND BODY 07864560
+NOT FOUND BODY 07864460
+NOT FOUND BODY 07864C60
+NOT FOUND BODY 07864A60
+NOT FOUND BODY 07864960
+NOT FOUND BODY 07864860
+[30.3646] [INFO] LUA VM MEMORY USED: 1544.53 KB
+[31.2358] [INFO] Scene "GameScene:onEnter()"
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [71] to [96].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [96] to [129].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [129] to [173].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [173] to [232].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [71] to [96].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [96] to [129].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [129] to [173].
+cocos2d: CCSpriteBatchNode: resizing TextureAtlas capacity from [173] to [232].
+[32.0157] [INFO] Scene "GameScene:onExit()"
+[32.0164] [INFO] ----------------------------------------
+[32.0176] [INFO] LUA VM MEMORY USED: 1668.88 KB
+cocos2d: "cc_fps_images" rc=4 id=2 256 x 32 @ 16 bpp => 16 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/helloBG.png" rc=1 id=3 640 x 320 @ 32 bpp => 800 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_n.png" rc=1 id=1 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_s.png" rc=1 id=4 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/map.png" rc=17 id=5 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/background.png" rc=76 id=6 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/running.png" rc=19 id=7 256 x 256 @ 32 bpp => 256 KB
+cocos2d: "cc_2x2_white_image" rc=1 id=8 2 x 2 @ 32 bpp => 0 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/restart_n.png" rc=40 id=9 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/restart_s.png" rc=40 id=12 252 x 86 @ 32 bpp => 84 KB
+cocos2d: CCTextureCache dumpDebugInfo: 10 textures, for 1538 KB (1.50 MB)
+[32.0347] [INFO] ----------------------------------------
+CCPhysicsWorld::~CCPhysicsWorld(void)
+NOT FOUND BODY 07865E60
+NOT FOUND BODY 078D6D78
+[32.6732] [INFO] Scene "GameScene:onExit()"
+[32.6742] [INFO] ----------------------------------------
+[32.6752] [INFO] LUA VM MEMORY USED: 1670.27 KB
+cocos2d: "cc_fps_images" rc=4 id=2 256 x 32 @ 16 bpp => 16 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/helloBG.png" rc=1 id=3 640 x 320 @ 32 bpp => 800 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_n.png" rc=1 id=1 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/start_s.png" rc=1 id=4 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/map.png" rc=9 id=5 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/background.png" rc=43 id=6 128 x 128 @ 32 bpp => 64 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/running.png" rc=17 id=7 256 x 256 @ 32 bpp => 256 KB
+cocos2d: "cc_2x2_white_image" rc=1 id=8 2 x 2 @ 32 bpp => 0 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/restart_n.png" rc=1 id=9 252 x 86 @ 32 bpp => 84 KB
+cocos2d: "E:\xushuwei\android\lua-workspace\boyrun\res/restart_s.png" rc=1 id=12 252 x 86 @ 32 bpp => 84 KB
+cocos2d: CCTextureCache dumpDebugInfo: 10 textures, for 1538 KB (1.50 MB)
+[32.6933] [INFO] ----------------------------------------
+CCPhysicsWorld::~CCPhysicsWorld(void)
